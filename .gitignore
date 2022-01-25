@@ -14,5 +14,5 @@ venv/
 __pycache__/
 .mypy_cache/
 *.pyc
-
+data/*.gif
 *.png
