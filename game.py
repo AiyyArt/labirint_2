@@ -15,7 +15,7 @@ timirkhan@gmail.com
 **************************************
 """
 
-# *** path to PNG file ***
+# *** path to GIF file ***
 PDF_LOAD_PATH = "data/NeuralNetS_G0.gif" #C:/.../labirint_0/data/NeuralNetS_G0.gif" 
 
 __author__ = "Aiyyskhan Alekseev"

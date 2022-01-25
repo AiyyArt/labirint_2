@@ -1,1 +1,1 @@
-# folder for PDF's
+# folder for GIF's
